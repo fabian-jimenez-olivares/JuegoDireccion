@@ -1,0 +1,7 @@
+{
+  "name": "Train of Thought - Lumosity Brain Game",
+  "description": "Juego de agilidad mental y atención dividida estilo Lumosity Train of Thought para Android, con vías, trenes coloridos, generador procedimental y puntuación dinámica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
